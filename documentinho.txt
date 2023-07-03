@@ -1,0 +1,8 @@
+codigo codigo codigo
+if algo
+  faz isso
+else 
+  faz aquilo
+
+while faz aquilo
+  faz outro
