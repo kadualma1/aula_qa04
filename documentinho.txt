@@ -6,3 +6,6 @@ else
 
 while faz aquilo
   faz outro
+
+for faz isso
+  muda muda 
